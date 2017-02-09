@@ -1,0 +1,9 @@
+.save-button {
+	background-color: #387c41;
+	color: #fff;
+}
+.cancel-link {
+	color: #387c41;
+	text-decoration: underline;
+	margin-left: 20px;
+}
